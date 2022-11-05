@@ -1,0 +1,10 @@
+Account holder name : Anirban Merchant
+Account number : 23646344
+Balance : 5000.0
+Account type : C
+
+Account holder name : Anirban Merchant
+Account number : 23646344
+Balance : 500.0
+Account type : C
+
